@@ -1,6 +1,8 @@
 {
     "name": "intaro/pinboard",
     "description": "Simple web monitoring system which aggregates and displays Pinba data.",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": ">=5.3.9",
         "ext-PDO": "*",
